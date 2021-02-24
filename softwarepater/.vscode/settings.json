@@ -1,0 +1,11 @@
+{
+    "go.inferGopath": false,
+    "go.alternateTools": {
+    
+    },
+    "go.goroot": "",
+    "go.toolsEnvVars":{
+        "GOFLAGS": "-mod=vendor"
+    }
+
+}
